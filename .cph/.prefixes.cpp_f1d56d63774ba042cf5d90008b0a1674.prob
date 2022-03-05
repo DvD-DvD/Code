@@ -1,0 +1,1 @@
+{"name":"Local: prefixes","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\prefixes.cpp","tests":[{"id":1623506429840,"input":"4\nbbbb","output":"2\nabba"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\prefixes.cpp","group":"local","local":true}

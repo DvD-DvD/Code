@@ -1,0 +1,1 @@
+{"name":"Local: brownie","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\brownie.cpp","tests":[{"id":1605621759877,"input":"4\n30 23 103 36","output":""},{"id":1605622417537,"input":"6\n23 57 3 2801 300 82 914","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\brownie.cpp","group":"local","local":true}

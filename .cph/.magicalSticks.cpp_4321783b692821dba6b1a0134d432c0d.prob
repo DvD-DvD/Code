@@ -1,0 +1,1 @@
+{"name":"Local: magicalSticks","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\magicalSticks.cpp","tests":[{"id":1623505079676,"input":"4\n1\n2\n3\n4","output":"1\n1\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\magicalSticks.cpp","group":"local","local":true}

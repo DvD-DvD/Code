@@ -1,0 +1,263 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch temp1",
+            "request": "launch",
+            "mainClass": "temp1",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch s",
+            "request": "launch",
+            "mainClass": "s",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch hack_thread",
+            "request": "launch",
+            "mainClass": "hack_thread",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hacker",
+            "request": "launch",
+            "mainClass": "Hacker",
+            "projectName": "Code_347c1eed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Catalog",
+            "request": "launch",
+            "mainClass": "Catalog",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Output",
+            "request": "launch",
+            "mainClass": "Output",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog6",
+            "request": "launch",
+            "mainClass": "prog6",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog102",
+            "request": "launch",
+            "mainClass": "prog102",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog101",
+            "request": "launch",
+            "mainClass": "prog101",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch child",
+            "request": "launch",
+            "mainClass": "child",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog3",
+            "request": "launch",
+            "mainClass": "prog3",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog14",
+            "request": "launch",
+            "mainClass": "prog14",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog13",
+            "request": "launch",
+            "mainClass": "prog13",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog12",
+            "request": "launch",
+            "mainClass": "prog12",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch c",
+            "request": "launch",
+            "mainClass": "c",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch singleton",
+            "request": "launch",
+            "mainClass": "singleton",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch c2",
+            "request": "launch",
+            "mainClass": "c2",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog5",
+            "request": "launch",
+            "mainClass": "prog5",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog4",
+            "request": "launch",
+            "mainClass": "prog4",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog1",
+            "request": "launch",
+            "mainClass": "prog1",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prog2",
+            "request": "launch",
+            "mainClass": "prog2",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch instanceflow",
+            "request": "launch",
+            "mainClass": "instanceflow",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch emp",
+            "request": "launch",
+            "mainClass": "emp",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch overload",
+            "request": "launch",
+            "mainClass": "overload",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch c1",
+            "request": "launch",
+            "mainClass": "c1",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp",
+            "request": "launch",
+            "mainClass": "tp",
+            "projectName": "Code_49d79c1d"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false
+        },
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"name":"Local: bfs","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\bfs.cpp","tests":[{"id":1600368020584,"input":"6\n7\n1 2\n1 3\n2 4\n2 5\n3 5\n4 5\n4 6\n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\bfs.cpp","group":"local","local":true}

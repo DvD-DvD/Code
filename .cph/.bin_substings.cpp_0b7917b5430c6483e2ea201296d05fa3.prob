@@ -1,0 +1,1 @@
+{"name":"Local: bin_substings","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\bin_substings.cpp","tests":[{"id":1623564774981,"input":"2\n4\n1101\n5 12\n4\n1010\n10 10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\bin_substings.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: corrupted","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\corrupted.cpp","tests":[{"id":1618072444132,"input":"4\n3\n2 3 7 12 2\n4\n9 1 7 1 6 5\n5\n18 2 2 3 2 9 2\n3\n2 6 9 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\corrupted.cpp","group":"local","local":true}

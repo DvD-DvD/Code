@@ -1,0 +1,1 @@
+{"name":"Local: between_l_and_r","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\between_l_and_r.cpp","tests":[{"id":1624019732719,"input":"5\n10 1 10 3 4\n4\n1 10\n2 9\n3 4\n2 2","output":"5\n2\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\between_l_and_r.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: adding_reversed_num","url":"c:\\Users\\StylishDheeru\\Desktop\\SI\\Spoj\\adding_reversed_num.cpp","tests":[{"id":1614601604342,"input":"3\n24 1\n4358 754\n305 794","output":"34\n1998\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\SI\\Spoj\\adding_reversed_num.cpp","group":"local","local":true}

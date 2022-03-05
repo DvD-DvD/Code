@@ -1,0 +1,1 @@
+{"name":"Local: minimum_grid_path_cf","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\minimum_grid_path_cf.cpp","tests":[{"id":1616083549298,"input":"3\n2\n13 88\n3\n2 3 1\n5\n4 3 2 1 4","output":"202\n13\n19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\minimum_grid_path_cf.cpp","group":"local","local":true}

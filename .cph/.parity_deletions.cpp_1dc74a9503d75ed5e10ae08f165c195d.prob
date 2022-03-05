@@ -1,0 +1,1 @@
+{"name":"Local: parity_deletions","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\parity_deletions.cpp","tests":[{"id":1624021303462,"input":"5\n1 3 5 7 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\parity_deletions.cpp","group":"local","local":true}

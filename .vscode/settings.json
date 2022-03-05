@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "future": "cpp",
+        "thread": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "regex": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "java.project.sourcePaths": [
+        ""
+    ]
+}

@@ -1,0 +1,1 @@
+{"name":"Local: lecture_sleep","url":"c:\\Users\\StylishDheeru\\Desktop\\Code\\lecture_sleep.cpp","tests":[{"id":1626710633238,"input":"6 3\n1 3 5 2 5 4\n1 1 0 1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\StylishDheeru\\Desktop\\Code\\lecture_sleep.cpp","group":"local","local":true}
